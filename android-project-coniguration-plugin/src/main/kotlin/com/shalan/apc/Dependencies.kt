@@ -1,3 +1,5 @@
+package com.shalan.apc
+
 object Dependencies {
 
     object Kotlin {
